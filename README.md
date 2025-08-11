@@ -26,33 +26,33 @@ Google Colab → Cloud-based Python execution environment
 
 **🔍 EDA Steps Performed**
 
-Data Loading & Inspection
+1. Data Loading & Inspection
 
-.head(), .info(), .describe()
+   - .head(), .info(), .describe()
 
-Checking missing values
+   -  Checking missing values
 
-Data Cleaning
+2. Data Cleaning
 
-Handling missing values (Age, Embarked, Cabin)
+   - Handling missing values (Age, Embarked, Cabin)
 
-Correcting data types
+   - Correcting data types
 
-Exploratory Visualizations
+3. Exploratory Visualizations
 
-Univariate Analysis: Histograms, Countplots
+   - Univariate Analysis: Histograms, Countplots
 
-Bivariate Analysis: Survival rate by gender, class, and age
+   - Bivariate Analysis: Survival rate by gender, class, and age
 
-Multivariate Analysis: Pairplots, heatmaps for correlation
+    - Multivariate Analysis: Pairplots, heatmaps for correlation
 
-Statistical Insights
+4. Statistical Insights
 
-Survival rate analysis
+   - Survival rate analysis
 
-Class & gender effect on survival
+   - Class & gender effect on survival
 
-Age distribution trends
+   - Age distribution trends
 
 **📊 Key Visuals**
 
