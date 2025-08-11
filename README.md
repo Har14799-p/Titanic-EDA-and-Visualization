@@ -6,23 +6,23 @@ This project performs an Exploratory Data Analysis (EDA) on the Titanic dataset 
 
 **📂 Dataset**
 
-Name: Titanic - Machine Learning from Disaster (Kaggle)
+- **Name**: Titanic - Machine Learning from Disaster (Kaggle)
 
-File Used: train.csv
+- **File Used**: train.csv
 
-Description: Contains passenger details such as age, sex, ticket class, fare, and survival status.
+- **Description**: Contains passenger details such as age, sex, ticket class, fare, and survival status.
 
 **🛠️ Tools & Libraries Used**
 
-Python
+- **Python**
 
-Pandas → Data manipulation and analysis
+- **Pandas** → Data manipulation and analysis
 
-Matplotlib → Data visualization
+- **Matplotlib** → Data visualization
 
-Seaborn → Advanced visualizations
+- **Seaborn** → Advanced visualizations
 
-Google Colab → Cloud-based Python execution environment
+- **Google Colab** → Cloud-based Python execution environment
 
 **🔍 EDA Steps Performed**
 
@@ -40,11 +40,11 @@ Google Colab → Cloud-based Python execution environment
 
 3. Exploratory Visualizations
 
-   - Univariate Analysis: Histograms, Countplots
+   - **Univariate Analysis**: Histograms, Countplots
 
-   - Bivariate Analysis: Survival rate by gender, class, and age
+   - **Bivariate Analysis**: Survival rate by gender, class, and age
 
-    - Multivariate Analysis: Pairplots, heatmaps for correlation
+    - **Multivariate Analysis**: Pairplots, heatmaps for correlation
 
 4. Statistical Insights
 
@@ -56,21 +56,21 @@ Google Colab → Cloud-based Python execution environment
 
 **📊 Key Visuals**
 
-Passenger age distribution histogram
+- Passenger age distribution histogram
 
-Survival rate by passenger class & gender
+- Survival rate by passenger class & gender
 
-Heatmap of feature correlations
+- Heatmap of feature correlations
 
-Boxplots for fare distribution
+- Boxplots for fare distribution
 
 **📈 Summary of Findings**
 
-Gender: Women had a significantly higher survival rate.
+- **Gender**: Women had a significantly higher survival rate.
 
-Class: Higher-class passengers had better chances of survival.
+- **Class**: Higher-class passengers had better chances of survival.
 
-Age: Younger passengers tended to survive more often.
+- **Age**: Younger passengers tended to survive more often.
 
-Fare: Higher fares were linked to higher survival probability.
+- **Fare**: Higher fares were linked to higher survival probability.
 
